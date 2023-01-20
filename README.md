@@ -1,6 +1,6 @@
 ## Getting Started with the MFE-POC
 
-Each folder is a separate create-react-app micro frontend.
+Each folder is a separate create-react-app micro frontend project.
 
 **Useful commands
 
