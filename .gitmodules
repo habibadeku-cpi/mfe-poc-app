@@ -1,0 +1,15 @@
+[submodule "station-mgt-app"]
+	path = station-mgt-app
+	url = https://github.com/habibadeku-cpi/station-mgt-app.git
+[submodule "host"]
+	path = host
+	url = https://github.com/habibadeku-cpi/host.git
+[submodule "charger-mgt"]
+	path = charger-mgt
+	url = https://github.com/habibadeku-cpi/charger-mgt.git
+[submodule "provisn-app"]
+	path = provisn-app
+	url = https://github.com/habibadeku-cpi/provisn-app.git
+[submodule "be-energized-app"]
+	path = be-energized-app
+	url = https://github.com/habibadeku-cpi/be-energized-app.git
