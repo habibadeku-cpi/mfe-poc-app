@@ -4,10 +4,10 @@ Each folder is a separate create-react-app micro frontend.
 
 **Useful commands
 
-Install all packages
+Install all packages - this will run post install to add the webpack config lines from the patch script
 # `npm install`
 
-This command is used to patch the webpack config if you made an update to ../node_modules/react-scripts/webpack.config file
+This command is used to patch the webpack config if you made an update to ../node_modules/react-scripts/webpack.config file -- only run this if you have made a new update to webpack config
 # `npm run custom-package-config`
 
 Run the project
