@@ -14,4 +14,4 @@ Run the project
 # `npm run start`
 
 
-# **Note that you will need the station api running to view data on the charger management page, you will need to run the station api project on port 3006
+**Note that you will need the station api running to view data on the charger management page, you will need to run the station api project on port 3006
