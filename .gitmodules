@@ -13,3 +13,6 @@
 [submodule "be-energized-app"]
 	path = be-energized-app
 	url = https://github.com/habibadeku-cpi/be-energized-app.git
+[submodule "store-app"]
+	path = store-app
+	url = https://github.com/habibadeku-cpi/store-app.git
